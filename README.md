@@ -1,1 +1,18 @@
 # chatbot
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ma Page avec Chatbot</title>
+</head>
+<body>
+
+    <h1>Bienvenue sur ma page avec un Chatbot intégré !</h1>
+    <p>Voici mon chatbot :</p>
+
+    <!-- Intégration du chatbot avec iframe -->
+    <iframe src="https://maelle12379.github.io/chatbot/" width="100%" height="500px"></iframe>
+
+</body>
+</html>
